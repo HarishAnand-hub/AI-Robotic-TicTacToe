@@ -1,3 +1,5 @@
+![Robotic TicTacToe](demo.png)
+
 # AI-Powered Robotic Tic-Tac-Toe
 
 **Name:** Harish Anand  
@@ -155,3 +157,4 @@ This project successfully integrated visual perception, strategic reasoning, and
 ## Demo Image
 
 ![Robotic TicTacToe](demo.png)
+
