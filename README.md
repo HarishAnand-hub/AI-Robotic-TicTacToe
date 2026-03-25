@@ -1,6 +1,6 @@
-![Robotic TicTacToe](demo.png)
-
 # AI-Powered Robotic Tic-Tac-Toe
+
+<img src="demo.png" width="400"/>
 
 **Name:** Harish Anand  
 **Institution:** Ira A. Fulton Schools of Engineering, Arizona State University, Tempe, USA
@@ -157,4 +157,5 @@ This project successfully integrated visual perception, strategic reasoning, and
 ## Demo Image
 
 ![Robotic TicTacToe](demo.png)
+
 
