@@ -141,7 +141,7 @@ This project successfully integrated visual perception, strategic reasoning, and
 
 ---
 
-## Demo Video & Source Code
+## Source Code
 
 - Source code available in this repository: `TICTACTOEMIDTERM.py`
 
@@ -151,3 +151,7 @@ This project successfully integrated visual perception, strategic reasoning, and
 
 1. S. Russell and P. Norvig, *Artificial Intelligence: A Modern Approach*, 4th ed. Pearson, 2020.
 2. G. Bradski and A. Kaehler, *Learning OpenCV*, O'Reilly Media, 2008.
+
+## Demo Image
+
+![Robotic TicTacToe](demo.png)
